@@ -197,9 +197,7 @@ The CalMS21_task1 subset exhibits significant class imbalance:
 - [MABe Challenge Paper](https://arxiv.org/abs/2207.10553)
 - [CalMS21 Dataset](https://sites.google.com/view/computational-behavior/our-datasets/calms21-dataset)
 
-## License
 
-This project is licensed under the MIT License. See LICENSE file for details.
 
 ## Acknowledgments
 
